@@ -4,7 +4,6 @@ from datetime import date
 
 #getting the Api key
 api_key = 'c4371e55575b4ec2a980a1c7bb9c16dc'
-
 #getting the news base url
 base_url = None
 
