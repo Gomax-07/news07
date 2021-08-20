@@ -73,7 +73,7 @@ def get_articles(id):
 def get_news_source(category):    
     """function that gets the json response to our url request
     """
-    get_news_source_url = base_url.format(category, 'f260d9d03e9a4289b6130f515c8c91de')
+    get_news_source_url = base_url.format(category, 'c4371e55575b4ec2a980a1c7bb9c16dc')
     with urllib.request.urlopen(get_news_source_url) as url:
         get_news_source_data = url.read()
         get_news_source_response = json.loads(get_news_source_data)

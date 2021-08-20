@@ -11,7 +11,7 @@ def index():
     technology = get_news_source('technology')
     business = get_news_source('business')
     entertainment = get_news_source('entertainment')
-    title = 'Weekly Citizen News'
+    title = 'All cap'
 
     return render_template('index.html', title = title, technology = technology, business = business, entertainment = entertainment)
 
@@ -21,6 +21,6 @@ def articles(id):
     veiw articles page function that returns the article page its data
     """
     articles = get_articles(id)
-    title = f'Weekly Citizen News articles | {id}'
+    title = f'All cap | {id}'
 
     return render_template('news_articles.html', title = title, articles = articles)
