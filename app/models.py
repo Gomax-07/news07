@@ -33,3 +33,5 @@ class NewsArticle:
         self.image = image
         self.title = title       
         
+
+        
