@@ -7,21 +7,27 @@ Macharia John
 ## DESCRIPTION
 This is an application that enables the user to search , preview and display various news articles from different sources.
 
-## SETUP
+## SETUP & INSTALLATION 
 TO access this project on your local files, you can clone it using these steps:
 
 1. Open your Terminal
-2. clone the respository 
+2. Clone the respository 
        $ git clone(https://github.com/Gomax-07/news07.git)
 
 3. This will clone the respository into your local folder
+4. Pip Install flask
+5. Running (`./start.sh`)
+
 
 ## TECHNOLOGIES USED
 1. Flask(Python)
 2. Jinja2
 3. Bootstrap  
 
+## Support and contact details
 
+ GitHub Acc: https://github.com/gomax-07
+ Email: gikmach@gmail.com
 
 ## LICENSE
 MIT License
