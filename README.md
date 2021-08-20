@@ -1,5 +1,5 @@
 # News07
-/n
+
 
 ## AUTHOR 
 Macharia John
