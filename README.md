@@ -1,5 +1,5 @@
 # News07
-
+/n
 
 ## AUTHOR 
 Macharia John
@@ -12,7 +12,7 @@ TO access this project on your local files, you can clone it using these steps:
 
 1. Open your Terminal
 2. clone the respository 
-       $ git clone()
+       $ git clone(https://github.com/Gomax-07/news07.git)
 
 3. This will clone the respository into your local folder
 
